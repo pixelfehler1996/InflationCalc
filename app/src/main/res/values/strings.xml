@@ -8,4 +8,9 @@
     <string name="not_all_filled">You have left something empty!</string>
     <string name="years_equals_today">years equals todays value of</string>
     <string name="wert">!</string>
+    <string name="value_increase">Value increase</string>
+    <string name="property_with_value">A property with a value of</string>
+    <string name="has_in">has in</string>
+    <string name="years_value_of">years a value of</string>
+    <string name="inflation">Inflation</string>
 </resources>

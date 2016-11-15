@@ -9,4 +9,9 @@
     <string name="not_all_filled">Es wurde nicht alles ausgefüllt!</string>
     <string name="years_equals_today">Jahren sind heute</string>
     <string name="wert">wert!</string>
+    <string name="value_increase">Wertsteigerung</string>
+    <string name="property_with_value">Eine Immobilie im Wert von</string>
+    <string name="has_in">ist in</string>
+    <string name="years_value_of">Jahren</string>
+    <string name="inflation">Inflation</string>
 </resources>
