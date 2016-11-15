@@ -36,7 +36,7 @@
         android:id="@+id/textView_result2" />
 
     <TextView
-        android:text="Wert heute:"
+        android:text="@string/value"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/textView"
@@ -44,7 +44,7 @@
         android:layout_alignStart="@+id/editText_numberToday" />
 
     <TextView
-        android:text="Inflation in %:"
+        android:text="@string/inflation_in_percent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/textView2"
@@ -53,7 +53,7 @@
         android:layout_alignStart="@+id/editText_inflation" />
 
     <TextView
-        android:text="Anzahl der Jahre:"
+        android:text="@string/number_of_years"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/textView3"
@@ -75,7 +75,7 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="number"
+        android:inputType="number|numberDecimal"
         android:ems="10"
         android:id="@+id/editText_inflation"
         android:textAlignment="textStart"
@@ -95,11 +95,10 @@
         android:layout_toStartOf="@+id/button_calc" />
 
     <Button
-        android:text="Berechnen"
+        android:text="@string/calculate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button_calc"
-        android:onClick="calc (MainActivity)"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>

@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">InflationCalc</string>
+    <string name="value">Value:</string>
+    <string name="inflation_in_percent">Inflation in %:</string>
+    <string name="number_of_years">Number of years:</string>
+    <string name="calculate">Calculate</string>
+    <string name="error">Error!</string>
+    <string name="not_all_filled">You have left something empty!</string>
+    <string name="years_equals_today">years equals todays value of</string>
+    <string name="wert">!</string>
 </resources>

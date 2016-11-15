@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inflationsrechner</string>
+    <string name="value">Wert:</string>
+    <string name="inflation_in_percent">Inflation in %:</string>
+    <string name="number_of_years">Anzahl der Jahre:</string>
+    <string name="calculate">Berechnen</string>
+    <string name="error">Fehler!</string>
+    <string name="not_all_filled">Es wurde nicht alles ausgefüllt!</string>
+    <string name="years_equals_today">Jahren sind heute</string>
+    <string name="wert">wert!</string>
+</resources>
